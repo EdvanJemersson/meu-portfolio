@@ -1,0 +1,54 @@
+body
+{
+    font-weight: 400;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+section, footer{
+    margin: 40px;
+}
+
+h1
+{
+font-size: 63px;
+color: #252617;
+padding: 15px;
+text-align: center;
+}
+
+h2{
+    font-size: 24px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+
+nav li a {
+    padding: 10;
+    text-decoration: none;
+}
+
+nav li {
+    float: left;
+}
+
+nav ul {
+    float: right;
+    list-style: none;
+}
+
+nav{
+font-size: 15px;
+letter-spacing: 2px;
+word-spacing: 10px;
+border-spacing: 10px;
+height: 35px;
+padding-right: 40px;
+
+}
+
+.carousel-caption h5{
+    font-size: 80px;
+    color: chocolate;
+    text-shadow: 2px 2px 2px black;
+}
